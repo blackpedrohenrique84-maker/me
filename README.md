@@ -44,7 +44,7 @@ bash
 <br>
 🟢 { GITHUB_STATS }
 <div align="center">
-<a href="https://github.com/thev0id">
+<a href="https://github.com/blackpedrohenrique84-maker">
 <img src="https://github-readme-stats.vercel.app/api?username=thev0id&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&hide_border=false" height="190" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/thev0id">
