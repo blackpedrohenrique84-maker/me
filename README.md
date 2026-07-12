@@ -27,9 +27,8 @@
 
   UID        -> blackpedrohenrique84-maker
   ROLE       -> Developer / Cyber-Enthusiast
-  LANGUAGES  -> C++, Python, HTML, CSS
-  MOTIVE     -> "You try to take the best of me / Go away"
-  STATUS     -> [ Coding ] [ Listening to Nu-Metal ]
+  LANGUAGES  -> C++ and Python 
+ 
 ```
 
 ### 🟢 { WEAPONS_OF_CHOICE }
@@ -77,6 +76,8 @@
 ```
 
 <br>
+
+<img src="https://imgur.com/a/FnzkMBG">
 
 <div align="center">
 <p><b>[ INVENTORY_EQUIPPED ]</b></p>
