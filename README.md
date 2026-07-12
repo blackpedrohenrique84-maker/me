@@ -1,6 +1,6 @@
 <div align="center">
 
-```text
+text
  __________________________________________________________________
 |  C:\WINDOWS\system32\cmd.exe                                [-][x] |
 |====================================================================|
@@ -52,4 +52,4 @@ Você é o visitante nº:<br>
 <br><br>
 <img src="https://media.giphy.com/media/u0r2R11V4Tjkk/giphy.gif" width="100" alt="Under Construction">
 </div>
-```
+
