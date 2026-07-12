@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER LINKIN PARK REANIMATION -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRjMWEzYTRjNzQ5NjI0NjE1YzBhYTIzZDJjYThhMzY0YjE3Y2JiYiZlcD12MV9pbnRlcm5hbF9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="180" style="object-fit: cover; border: 1px solid #00FF00;" alt="Reanimation Header">
+<img src="https://br.pinterest.com/pin/435160382766818811/" width="100%" height="180" style="object-fit: cover; border: 1px solid #00FF00;" alt="Reanimation Header">
 
 <br><br>
 
